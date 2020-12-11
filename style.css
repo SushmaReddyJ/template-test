@@ -1,0 +1,12 @@
+html{
+    /* prevents from adding extra width and hight */
+    box-sizing: border-box;   
+}
+
+body {
+    margin: 0;
+    /* to strech background height full */
+    min-height: 100vh;
+    /* generally we dont give color for background */
+    /* background: chartreuse;   */
+}
